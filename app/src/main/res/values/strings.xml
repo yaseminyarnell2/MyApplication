@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="action_settings">Settings</string>
-    <string name="store_journal_on_drive">Store Journal on Drive</string>
-    <string name="store_on_device"><u>Store Journal on Drive</u></string>
+    <string name="store_journal_on_drive">Store journal in Drive</string>
+    <string name="store_on_device"><u>No, I want to store journals on Device</u></string>
 
 </resources>
